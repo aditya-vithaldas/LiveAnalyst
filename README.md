@@ -35,3 +35,14 @@ The same five browser-observed metrics as the shopping demo: first audio, first 
 - `node --experimental-strip-types scripts/check-uploads.mjs`
 - `node scripts/benchmark-demo.mjs`
 - `npm run build`
+
+## Contributing
+
+This project is open to contributions. See [CONTRIBUTING.md](CONTRIBUTING.md) for
+setup, checks, and the pull-request process. [Aditya Vithaldas](https://github.com/aditya-vithaldas)
+is the maintainer and code owner for all contributions.
+
+## License
+
+[MIT](LICENSE) — Copyright (c) 2026 Aditya Vithaldas. Third-party dependencies
+and vendored components retain their own license notices.
